@@ -1,5 +1,5 @@
-module github.com/evanreid88/go-react-chat
+module goreactchat
 
-go 1.13
+go 1.23
 
 require github.com/gorilla/websocket v1.4.1
